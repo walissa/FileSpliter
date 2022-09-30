@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>BizTalkComponents.PipelineComponents.MessageSplitter</id>
+    <version>$version$</version>
+    <authors>Wael Alissa</authors>
+    <description>Split and debatch incoming messages by a given size or a row count</description>
+    <projectUrl>https://github.com/walissa/MessageSplitter</projectUrl>
+    <tags>BizTalk</tags>
+  </metadata>
+</package>
